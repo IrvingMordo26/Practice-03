@@ -36,6 +36,4 @@ Fecha entrega: 14 de Mayo de 2025
 ![alt text](<Screenshot 2025-05-14 at 9.20.04 a.m..png>)
 
 
-# Practice-03
 
-# Practice-03
